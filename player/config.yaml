@@ -4,7 +4,7 @@ simulation_app:
     headless: true
   experience: ""
 
-usd_directory: "/home/ubuntu/sunrise/robotui_omniverse_app/animation-player/"
+usd_directory: "/home/path/animation-player/"
 scene_name: "animation.usda"
 
 last_frame_index: 7540
