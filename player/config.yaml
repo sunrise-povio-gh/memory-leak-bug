@@ -1,0 +1,10 @@
+simulation_app:
+  launch_config:
+    renderer: "RayTracedLighting"
+    headless: true
+  experience: ""
+
+usd_directory: "/home/ubuntu/sunrise/robotui_omniverse_app/animation-player/"
+scene_name: "animation.usda"
+
+last_frame_index: 7540
